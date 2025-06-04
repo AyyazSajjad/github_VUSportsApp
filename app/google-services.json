@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073791467154",
+    "project_id": "vu-sports-app",
+    "storage_bucket": "vu-sports-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073791467154:android:c074cc19167fe3af10f04b",
+        "android_client_info": {
+          "package_name": "com.example.vusportssocietyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6rqIzitrB9uz7G87jvQX-1sJz1KG9vYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
